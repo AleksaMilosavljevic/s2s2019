@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 linija za konflikt na drugoj grani
+=======
+nujujujgtgghyhh6hjjj67jjvgtrgtrgtrgtrgiseferinvinvisvnr
+>>>>>>> master
